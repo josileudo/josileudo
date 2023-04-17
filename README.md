@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josileudo
-- 👀 I’m interested in swift, Angular, React
+- 👀 I’m interested in SwiftUI, Angular, React
 - 🌱 I’m currently learning Swift UI
 
 <!---
