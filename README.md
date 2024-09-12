@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josileudo
-- 👀 I’m interested in SwiftUI, Angular, React
-- 🌱 I’m currently I focus in Android Studio
+- 👀 I’m interested in Swift, Angular, React, Vapor and Node.js
+- 🌱 I’m currently I focus in Swift
 
 <!---
 josileudo/josileudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
