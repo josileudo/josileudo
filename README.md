@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @josileudo
-- 👀 I’m interested in Swift, Angular, React, Vapor and Node.js
-- 🌱 I’m currently I focus in Swift
-
-<!---
-josileudo/josileudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m an Android software engineer
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josileudo)](https://github.com/josileudo/github-readme-stats)
